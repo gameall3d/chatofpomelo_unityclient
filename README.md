@@ -1,6 +1,5 @@
 chatofpomelo_unityclient 
-This is a chat demo with new unity ui using pomelo-unityclient-socket for pomelo, 
-the server side is chatofpomelo(https://github.com/NetEase/chatofpomelo).It use 
+This is a chat demo with new unity ui using pomelo-unityclient-socket(https://github.com/NetEase/pomelo-unitychat-socket) for pomelo, the server side is chatofpomelo(https://github.com/NetEase/chatofpomelo). It use 
 new unity ui with the unity version 4.6+.
 
 License
